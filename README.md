@@ -1,72 +1,43 @@
-# 💻 Tech Stack & Tools
-
-### 👨‍💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
-### 🤖 Artificial Intelligence & Machine Learning
-![AI](https://img.shields.io/badge/AI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### 🧠 Generative AI, LLMs & RAG
-![Google Gemini Enterprise](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-0A7E8C?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-FF6F00?style=for-the-badge)
-![MCP](https://img.shields.io/badge/MCP-333333?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7B42BC?style=for-the-badge)
-
-### 📊 Data Science & Analytics
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### 🔎 Vector Databases & Search
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### ☁️ Cloud, DevOps & Deployment
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🛠️ Frameworks & Developer Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<div align="center">
+  <h1>Hey, I'm Nitin 👋</h1>
+  <p>
+    <strong>Cloud, Data & AI Architect</strong> • Specializing in Google Cloud (GCP), Enterprise GenAI & Autonomous Systems
+  </p>
+  
+  <p>
+    <a href="https://linkedin.com/in/nitinkumarriaan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://paypal.me/nitinriaan"><img src="https://img.shields.io/badge/Sponsor-00457C?style=flat-square&logo=paypal&logoColor=white" alt="Sponsor" /></a>
+  </p>
+</div>
 
 ---
 
-## 🌐 Connect With Me
+### ⚡ Snapshot
+- ☁️ **Cloud Backbone:** Building high-throughput, secure enterprise workloads natively on **Google Cloud Platform (GCP)**.
+- 🤖 **Enterprise AI:** Designing production-grade conversational and agentic systems using **Gemini Enterprise**, **GECX**, and **Vertex AI**.
+- 📊 **Data & Retrieval:** Engineering scalable data pipelines, advanced vector search, and enterprise-grade RAG architectures with **BigQuery**, **Cloud Run/GKE**, and **Model Context Protocol (MCP)**.
+- 🛠️ **Systems & Backend:** Resilient microservices, IaC, and low-latency APIs powered by **FastAPI**, **Terraform**, **Kubernetes**, and **Python**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitinkumarriaan)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nitinriaan)
+---
 
-<!-- Profile README maintained by Nitin Riaan --> 
+### 🛠️ Core Competencies & Stack
+
+| Domain | Focus & Technologies |
+| :--- | :--- |
+| **Primary Cloud (GCP)** | `Google Cloud Platform` `Vertex AI` `GKE` `Cloud Run` `BigQuery` `Cloud Storage` `Terraform (IaC)` |
+| **Enterprise GenAI & Agents** | `Gemini Enterprise` `GECX` `Vertex AI Search & Conversation` `MCP (Model Context Protocol)` `LangChain` `Production RAG` |
+| **Data Engineering & Analytics** | `SQL` `PostgreSQL` `BigQuery` `Redis` `Vector Databases (ChromaDB / Pinecone)` `Pandas` `NumPy` |
+| **Backend & Systems** | `Python` `FastAPI` `Docker` `Kubernetes` `C++` `Git` `CI/CD` |
+
+<br/>
+
+<div align="center">
+  <!-- Minimalist, dark-mode responsive icon ribbon centered on Cloud, Data & Backend -->
+  <img src="https://skillicons.dev/icons?i=gcp,python,fastapi,docker,kubernetes,terraform,postgres,redis,git&theme=dark" alt="Tech Stack" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Let's connect: <a href="https://linkedin.com/in/nitinkumarriaan">LinkedIn</a> • Maintained by <a href="https://github.com/nitinkumarriaan">@nitinkumarriaan</a></sub>
+</div>
