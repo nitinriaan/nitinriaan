@@ -35,9 +35,3 @@
   <!-- Minimalist, dark-mode responsive icon ribbon centered on Cloud, Data & Backend -->
   <img src="https://skillicons.dev/icons?i=gcp,python,fastapi,docker,kubernetes,terraform,postgres,redis,git&theme=dark" alt="Tech Stack" />
 </div>
-
----
-
-<div align="center">
-  <sub>Let's connect: <a href="https://linkedin.com/in/nitinkumarriaan">LinkedIn</a> • Maintained by <a href="https://github.com/nitinkumarriaan">@nitinkumarriaan</a></sub>
-</div>
