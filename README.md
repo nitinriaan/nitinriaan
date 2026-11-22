@@ -1,7 +1,10 @@
 <div align="center">
-  <h1>Hey, I'm Nitin 👋</h1>
+  <h1>Nitin</h1>
   <p>
-    <strong>Cloud, Data & AI Architect</strong> • Specializing in Google Cloud (GCP), Enterprise GenAI & Autonomous Systems
+    <strong>Forward Deployed Engineer</strong> | <strong>GenAI & Cloud Systems</strong>
+  </p>
+  <p>
+    Shipping production enterprise AI, agentic architectures, and distributed systems natively on Google Cloud.
   </p>
   
   <p>
@@ -12,26 +15,17 @@
 
 ---
 
-### ⚡ Snapshot
-- ☁️ **Cloud Backbone:** Building high-throughput, secure enterprise workloads natively on **Google Cloud Platform (GCP)**.
-- 🤖 **Enterprise AI:** Designing production-grade conversational and agentic systems using **Gemini Enterprise**, **GECX**, and **Vertex AI**.
-- 📊 **Data & Retrieval:** Engineering scalable data pipelines, advanced vector search, and enterprise-grade RAG architectures with **BigQuery**, **Cloud Run/GKE**, and **Model Context Protocol (MCP)**.
-- 🛠️ **Systems & Backend:** Resilient microservices, IaC, and low-latency APIs powered by **FastAPI**, **Terraform**, **Kubernetes**, and **Python**.
+### 🛠️ Production Stack & Tooling
 
----
-
-### 🛠️ Core Competencies & Stack
-
-| Domain | Focus & Technologies |
+| Domain | Systems & Technologies |
 | :--- | :--- |
-| **Primary Cloud (GCP)** | `Google Cloud Platform` `Vertex AI` `GKE` `Cloud Run` `BigQuery` `Cloud Storage` `Terraform (IaC)` |
-| **Enterprise GenAI & Agents** | `Gemini Enterprise` `GECX` `Vertex AI Search & Conversation` `MCP (Model Context Protocol)` `LangChain` `Production RAG` |
-| **Data Engineering & Analytics** | `SQL` `PostgreSQL` `BigQuery` `Redis` `Vector Databases (ChromaDB / Pinecone)` `Pandas` `NumPy` |
-| **Backend & Systems** | `Python` `FastAPI` `Docker` `Kubernetes` `C++` `Git` `CI/CD` |
+| **Enterprise GenAI & Agents** | `Gemini Enterprise` `GECX` `Vertex AI` `Model Context Protocol (MCP)` `Agentic RAG` `LangChain` |
+| **Cloud & Distributed Infra (Primary)** | `Google Cloud (GCP)` `GKE (Kubernetes)` `Cloud Run` `Terraform (IaC)` `Docker` |
+| **Data Platform & Storage** | `BigQuery` `PostgreSQL` `Redis` `SQL` |
+| **Software Engineering & Core** | `Python` `FastAPI` `C++` `Microservices` `gRPC / REST` `CI/CD` |
 
 <br/>
 
 <div align="center">
-  <!-- Minimalist, dark-mode responsive icon ribbon centered on Cloud, Data & Backend -->
-  <img src="https://skillicons.dev/icons?i=gcp,python,fastapi,docker,kubernetes,terraform,postgres,redis,git&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=gcp,python,fastapi,docker,kubernetes,terraform,postgres,redis,cpp,git&theme=dark" alt="Tech Stack" />
 </div>
