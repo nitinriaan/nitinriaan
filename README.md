@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Nitin</h1>
   <p>
-    <strong>Forward Deployed Engineer</strong> | <strong>GenAI & Cloud Systems</strong>
+    <strong>Forward Deployed Engineer</strong> | <strong>GenAI, Data & Cloud Systems</strong>
   </p>
   <p>
     Shipping production enterprise AI, agentic architectures, and distributed systems natively on Google Cloud.
